@@ -30,5 +30,5 @@ Revenue acculamted in KidS staking is distributed to holders in porportion to st
   * Team: 100M (1%) tokens are allocated to the creators of KidS, with a 4-year  lockup period. Tokens are to be released at every end-of-year.
   * Partner staking airdrop: 100M (1%) tokens are airdropped to Partner on launch.
   * Partner staking rewards: 100M (10%) tokens are linearly distributed to Partner over a period of 2 years. 
-  * KIDS staking rewards: 2B (20%) tokens are linearly distributed to the KIDS-UST pair liquidity providers over a period of 1 year.
+  * KidS staking rewards: 2B (20%) tokens are linearly distributed to holders of KidS token.
   * Community fund: 500M (5%) tokens will be reserved for the KidS Community Fund.
