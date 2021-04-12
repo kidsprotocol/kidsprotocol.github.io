@@ -17,9 +17,6 @@ Revenue acculamted in KidS staking is distributed to holders in porportion to st
 50% of tokens were burnt at the launch of KidS.
 
 ## Tokenomics
-5% Liquidity Locked per transaction
-5% Rewards to holders per transaction
-
 * Summary
   * Token Name: KidS
   * Total Supply: 10,000,000,000
